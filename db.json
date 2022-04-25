@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "e-PAKIET WYSYŁKOWY Genetyczna diagnostyka dermatomykoz - grzybica paznokci",
+      "description": "Badanie umożliwia wykrywanie i identyfikację 23 gatunków dermatofitów, 3 gatunków drożdżaków i 3 gatunków grzybów pleśniowych na podstawie obecności ich materiału genetycznego (DNA) w próbce. Badanie jest realizowane w wygodnej formie wysyłkowej, umożliwiającej pobranie materiału w warunkach domowych.",
+      "price": 425.00,
+      "image":"../images/product.webp"
+    },
+    {
+      "id": 2,
+      "title": "E-PAKIET ZDROWY START NA WIOSNĘ – PAKIET PODSTAWOWY",
+      "description": "Wiosna to idealny moment na zadbanie o zdrowie i dobrą kondycję. Po zimowym zastoju powoli zaczynamy się ruszać, zdrowiej odżywiać i aktywniej korzystać z życia. Warto więc wykorzystać ten czas także na wiosenne porządki w naszym organizmie i wziąć udział w akcji",
+      "price": 119.00,
+      "image":"../images/product2.webp"
+    },
+    {
+      "id": 3,
+      "title": "e-PAKIET WYSYŁKOWY - mutacja w genie otyłości FTO metodą PCR",
+      "description": "Badanie umożliwia określenie zwiększonego ryzyka otyłości i innych, związanych z nią chorób, na podstawie oceny polimorfizmu genu FTO. Wynik badania pozwala na opracowanie spersonalizowanej diety oraz zmniejszenie ryzyka pojawienia się chorób skojarzonych z otyłością. ",
+      "price": 198.00,
+      "image":"../images/product3.webp"
+    }
+  ]
+}
